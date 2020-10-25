@@ -22,3 +22,8 @@ The test command will setup a mongodb test server, connect to it, run your tests
 `yarn dev`
 
 The run dev command will start the server and listen on the configured port. The port can be configured in ./src/index.ts
+
+## More
+
+GOOD TIPS !!!
+https://hackernoon.com/how-to-link-mongoose-and-typescript-for-a-single-source-of-truth-94o3uqc
